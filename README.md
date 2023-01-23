@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning about AI sports analytics **utilizing selenium**
 
-- 👨‍💻 All of my projects are available at [tituswongportfolio.netlify.app](tituswongportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://tituswongportfolio.netlify.app/](https://tituswongportfolio.netlify.app/)
 
 - 📫 How to reach me **titus.wong12@gmail.com**
 
