@@ -9,10 +9,6 @@
 
 - 🔭 I’m currently working on a web application for a photography business [titus wong photography](https://tituswongphotography.netlify.app/)
 
-- 🌱 I’m currently learning about AI sports analytics **utilizing selenium**
-
-- 👨‍💻 All of my projects are available at [https://tituswongportfolio.netlify.app/](https://tituswongportfolio.netlify.app/)
-
 - 📫 How to reach me **titus.wong12@gmail.com**
 
 - ⚡ Fun fact **Love to cook and am a sucker for exploring new places**
